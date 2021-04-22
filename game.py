@@ -1,6 +1,4 @@
 
-
-
 def kingMoves(board, isBlack, index):
     '''
     get all legal moves for a king piece
